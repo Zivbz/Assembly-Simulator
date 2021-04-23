@@ -1,4 +1,4 @@
-# C-Language---final-project
+# Assembly simulator---final-project
 Final project in "Systems programming" course - Assembly simulator 
 
 In the final task for this course we were required to create an Assembly simulator in C programming language.
